@@ -24,3 +24,4 @@ I'm also the founder of Kingston Enterprises, a small general software developme
   
   <a href="[[https://github.com/DenverCoder1?tab=repositories&sort=stargazers](https://github.com/Kingston-5?tab=repositories&q=&type=&language=&sort=stargazers)](https://github.com/Kingston-5?tab=repositories&q=&type=&language=&sort=stargazers)"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
+</p>
