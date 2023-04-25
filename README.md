@@ -6,4 +6,5 @@ I`m the very definition of a software enthusiast; despite working in web develop
 
 I'm also the founder of Kingston Enterprises, a small general software development company that aims to use its technical knowledge and expertise to develop innovative solutions to solve real-world problems by helping companies create new applications, products, and services that reduce the cost of existing products and services while increasing their reliability, safety, efficiency, and value.
 
-[![Kingston-5's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingston-5)](https://github.com/anuraghazra/github-readme-stats)
+[![Kingston-5's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingston-5&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+chartreuse-dark
