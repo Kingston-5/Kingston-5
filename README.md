@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02A700&background=000000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Kingston-5;Founder+%40+Kingston-Enterprises)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13A900&background=000000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Kingston-5;Founder+%40+kingston-enterprises" alt="Typing SVG" /></a>
+  </p>
 
 **`Jack Of all Software Traits (Founder @kingstonenterprises/Developer/Digital Craftsman)`**
 
@@ -14,7 +16,7 @@ I'm also the founder of Kingston Enterprises, a small general software developme
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/Kingston-5/termux-youtube-downloader"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Kingston-5&repo=termux-youtube-downloader&theme=chartreuse-dark&show_owner&show_icons=false" alt="Termux Youtube-downloader"></a>
 </p>
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="[[https://github.com/DenverCoder1?tab=repositories&sort=stargazers](https://github.com/Kingston-5?tab=repositories&q=&type=&language=&sort=stargazers)](https://github.com/Kingston-5?tab=repositories&q=&type=&language=&sort=stargazers)"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
