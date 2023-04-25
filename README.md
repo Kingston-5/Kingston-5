@@ -36,10 +36,10 @@ I'm also the founder of Kingston Enterprises, a small general software developme
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   
 <p align="center">
-<a href="https://github.com/kingston-enterprises/icarus-framework"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kingston-enterprises&repo=icarus-framework&theme=chartreuse-dark&show_owner=true&show_icons=true" alt="Kingston-Enterprises Icarus Framework"></a>
-<a href="https://github.com/kingston-enterprises/base-application"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kingston-enterprises&repo=base-application&theme=chartreuse-dark&show_owner=true&show_icons=true" alt="Kingston Enterprises Icarus Framework Base application"></a>
+<a href="https://github.com/kingston-enterprises/icarus-framework"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kingston-enterprises&repo=icarus-framework&theme=chartreuse-dark&show_icons=true" alt="Kingston-Enterprises Icarus Framework"></a>
+<a href="https://github.com/kingston-enterprises/base-application"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kingston-enterprises&repo=base-application&theme=chartreuse-dark&show_icons=true" alt="Kingston Enterprises Icarus Framework Base application"></a>
 </p>
 <p align="center">
-<a href="https://github.com/orgs/kingston-enterprises/repositories?q=&type=all&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/orgs/kingston-enterprises/repositories?q=&type=all&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20Kingston-Enterprises%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 </details>
