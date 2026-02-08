@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=share+tech&pause=1000&color=F70000&center=true&vCenter=true&width=1000&height=1000&lines=Error+404.+No+info+found)](https://git.io/typing-svg)
+
